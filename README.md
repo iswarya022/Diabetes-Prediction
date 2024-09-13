@@ -1,4 +1,4 @@
-# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Iswarya's](https://github.com/iswarya022/) profile! <a href="https://github.com/iswarya022/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
@@ -7,9 +7,9 @@
 * Self-Taught Coder
 * Demanding Perfectionist
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)<br>
-📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
+🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/iswaryasofficial)<br>
+📬 How to reach me: [hirthicksoffical@gmail.com](mailto:iswaryasoffcial@gmail.com)<br>
+📝 [Resume](https://github.com/iswarya022/RESUME/blob/mainiswarya%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -61,11 +61,11 @@ Researched and developed a robust machine learning model using accelerometer dat
 <br>
 
 
-- 👨💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+- 👨💻All of my projects are available at [https://github.com/iswarya022](https://github.com/iswarya022)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/Hirthick6)✨**
+✨[`@iswarya`](https://github.com/iswarya022)✨**
 
 
 Projects: 
@@ -78,17 +78,17 @@ Projects:
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/iswarya022/Startup-Company-Machine-Learning)
 
 ## Project Overview:
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+#### Ms.Iswarya have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
 - ### Team Members
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+###  If you have any doubt or want to contribute feel free to hit me up on (iswaryasofficial@gmail.com)
 
 
 # Startup-Company-Machine-Learning with Streamlit Demo
@@ -148,6 +148,6 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (iswaryasofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
